@@ -10,7 +10,7 @@ We will explore five unique vehicles, each exemplifying different sensor connect
 
 Through this exploration, we will uncover the intricacies of Braitenberg Vehicles and witness firsthand how even the simplest of connections can give rise to complex and adaptive behaviors. So, let's begin our journey into the captivating world of Braitenberg Vehicles and discover the remarkable potential of autonomous systems driven by sensor-motor relationships.
 
-##Vehicle 1: Simplest possible vehicle equipped with one sensor and one motor. The sensor is directly connected to the motor. The sensor’s output is higher as it gets closer to the source.
+## Vehicle 1: Simplest possible vehicle equipped with one sensor and one motor. The sensor is directly connected to the motor. The sensor’s output is higher as it gets closer to the source.
 Sensor Setup:
 ![image](https://github.com/ceciljoseph97/Braitenberg_Vehicles_unreal/assets/29672160/12e92e49-8f2f-42c9-8da9-fbb72f77f2a8)
 
