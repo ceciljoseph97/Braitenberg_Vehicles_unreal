@@ -30,7 +30,7 @@ Sensor Setup(Similar to vehicle 3):
 
 ![image](https://github.com/ceciljoseph97/Braitenberg_Vehicles_unreal/assets/29672160/344aa561-2230-4e38-a882-1040b620f7ef)
 
-Non-linearity in the sensory input is enforced using functions like ReLU, sigmoid, and classic step functions, complemented with logarithmic transformations. Notably, vehicle 3 exhibits a more stable throttle input, showcasing differences in behavior compared to other vehicles.
+Non-linearity in the sensory input is enforced using functions like ReLU, sigmoid, and classic step functions, complemented with logarithmic transformations. Notably, vehicle 4 exhibits a more stable throttle input, showcasing differences in behavior compared to other vehicles.
 
 
 ## Vehicle 5: The Vehicle Learns to control its Throttle Output, employing a neural Component to learning throttle weight.
