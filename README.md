@@ -43,6 +43,7 @@ Get Throttle Input: We use Get Throttle Input from the NeuralComponent Through a
 
 # Easy Demonstration 
 Step 1: In ThirdPersonMap, Hit play -> Visit the Levels through the level Portal for Implementation Through Scrub Tracing.
+
 ![image](https://github.com/ceciljoseph97/Braitenberg_Vehicles_unreal/assets/29672160/ce4fa8e3-d1bd-4c0c-8ad8-9f356dee4a62)
 
 For Advanced view 
